@@ -1,4 +1,4 @@
-# DSA Questions & Solutions (Java)
+# DSA Questions & Solutions (Java) By Tejas Mathangi
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/tejas-mathangi/dsa-questions/main.yml?branch=main)](https://github.com/tejas-mathangi/dsa-questions/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
